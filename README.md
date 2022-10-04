@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **vautier.paul14350@gmail**
+- 📫 How to reach me : **paul.vautier.contact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
